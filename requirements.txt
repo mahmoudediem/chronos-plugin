@@ -1,1 +1,1 @@
-"git+https://github.com/mahmoudediem/shareddep.git@v2.0.0#egg=shareddep" 
+git+https://github.com/mahmoudediem/shareddep.git@v3.0.0#egg=shareddep
