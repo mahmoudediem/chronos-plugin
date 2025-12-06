@@ -1,0 +1,1 @@
+from .plugin_app import plugin_run
